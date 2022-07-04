@@ -6,7 +6,7 @@ A minimal searcher with Flask and GitHub API
 
 ```sh
 # Clone repository
-git clone ...
+git clone https://github.com/JaviCeRodriguez/github_profiles.git
 
 # Move on folder project
 cd ./github_profiles
